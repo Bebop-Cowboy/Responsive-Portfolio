@@ -4,7 +4,7 @@ h1 {
 	margin-bottom: 20px;
 	margin-left: 100px;
 	margin-top: 20px;
-	margin-right: 1500px;
+	margin-right: 800px;
 	padding: 20px 20px;
 	font-size: 28px;
 	text-align: center;
@@ -80,8 +80,33 @@ li a:hover {
     background-color: #111;
 }
 
+aside {
+  float: right;
+  width: 33%;
+  height: 200px;
+  padding: 20px;
+  margin-left: 30px;
+  background: #fff;
+  border: 1px solid #eee;
+}
 
-
+#contact {
+  	 	padding: 20px;
+	 	width: 40%;
+  	 	background: #666;
+  	 	float: right; 
+}
+#aboutme {
+  	 	padding: 20px;
+	 	width: 40%;
+  	 	background: #666;
+  	 	float: right;
+ } 	 	
+#portfolio {
+  	 	padding: 20px;
+	 	width: 40%;
+  	 	background: #666;
+  	 	float: right;
 
 
 
